@@ -1,0 +1,5 @@
+{
+	"appService.preDeployTask": "publish-release",
+	"appService.deploySubpath": "bin/Release/netcoreapp3.1/publish",
+	"appService.defaultWebAppToDeploy": "/subscriptions/8aeed58f-d283-4121-be59-4d4474e2563c/resourceGroups/Demo-AppService/providers/Microsoft.Web/sites/zoho-desk-widget"
+}
